@@ -1,6 +1,6 @@
 # nodejs-mongodb-auth
 
-This project was generated with [NodeJs](https://nodejs.org/en/) [MongoDB](https://www.mongodb.com/) version 0.0.1.
+This project was generated with [NodeJs](https://nodejs.org/en/) [MongoDB](https://www.mongodb.com/) version 1.0.0.
 
 ## Instalation
 
